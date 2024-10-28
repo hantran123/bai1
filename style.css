@@ -1,0 +1,78 @@
+
+
+header {
+    text-align: center;
+    padding: 50px;
+    color: #eeeeee;
+}
+
+h1 {
+    font-size: 5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+
+nav {
+    background-color: orange;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.hinhnen {background-color: orange;
+    width:100%;
+    height: 200px;
+}
+.box1 {background-color: rgb(255, 255, 255);
+    width:100%;
+    height: 35px;}
+    .container {
+        text-align: center;
+        margin: 0 auto;
+    }
+    
+    img {
+        max-width: 80%;
+        height: auto;
+    }   
+    .meme{background-color: orange;
+        width:100%;
+        height: 60px;
+    float:right;}
+
+
+
+
+
+
+  
